@@ -2,7 +2,7 @@
  
 Implementation of a transition between sections using React and TailwindCSS, inspired by [Jack Elder](https://www.jackelder.design/).
 
-Read blog post: [Medium/cpadlab](https://medium.com/@cpadlab)
+Read blog post: [Medium/cpadlab](https://medium.com/@cpadlab/awesome-gsap-section-transition-aba4271c0e0c)
 
 Live demo: [Codepen/cpadlab](https://codepen.io/cpadlab/pen/BaXeJZK) // Not React
 
