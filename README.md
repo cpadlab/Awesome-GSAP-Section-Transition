@@ -10,7 +10,6 @@ Live demo: [Codepen/cpadlab](https://codepen.io/cpadlab/pen/BaXeJZK) // Not Reac
 
 - [React](https://es.react.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
-- [¿Vite?](https://vite.dev/)
   
 You will also find a pre-built version in the /dist directory.
 
@@ -18,7 +17,8 @@ You will also find a pre-built version in the /dist directory.
 
 ```bash
 git clone https://github.com/cpadlab/Awesome-GSAP-Section-Transition
-cd Awesome-GSAP-Section-Transition && npm run dev
+cd Awesome-GSAP-Section-Transition 
+npm install && npm run dev
 ```
 
 ## Gallery
