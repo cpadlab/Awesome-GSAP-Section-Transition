@@ -11,7 +11,8 @@ Live demo: [Codepen/cpadlab](https://codepen.io/cpadlab/pen/BaXeJZK) // Not Reac
 - [React](https://es.react.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
   
-You will also find a pre-built version in the /dist directory.
+> [!NOTE]  
+> You can find a pre-built in version in the /dist directory
 
 ## Install
 
